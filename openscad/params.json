@@ -1,0 +1,105 @@
+// CPU measurements
+//
+//  (side view)
+//
+//  |------ cpu_x ----|
+//      ___________     ___
+//   __|___________|__   |  cpu_z
+//  |_________________| _|_  ___
+//     |||||||||||||         _|_ pin_z
+//                  <->
+//                  pin_border
+
+{
+  "parameterSets": {
+    "socket3": {
+      "cpu_x": 44.5,
+      "cpu_y": 44.5,
+      "cpu_z": 4.0,
+      "pin_z": 4.2,
+      "pin_border": 1.26,
+      "txt": "Socket3"
+    },
+    "socket4": {
+      "cpu_x": 55.0,
+      "cpu_y": 55.0,
+      "cpu_z": 4.0,
+      "pin_z": 3.3,
+      "pin_border": 1.40,
+      "txt": "Socket4"
+    },
+    "socket7": {
+      "cpu_x": 49.5,
+      "cpu_y": 49.5,
+      "cpu_z": 4.0,
+      "pin_z": 3,
+      "pin_border": 1.26,
+      "txt": "Socket7"
+    },
+    "socket370": {
+      "cpu_x": 49.5,
+      "cpu_y": 49.5,
+      "cpu_z": 3.4,
+      "pin_z": 3,
+      "pin_border": 1.26,
+      "txt": "370"
+    },
+    "socketA": {
+      "cpu_x": 49.5,
+      "cpu_y": 49.5,
+      "cpu_z": 3.4,
+      "pin_z": 3,
+      "pin_border": 1.26,
+      "txt": "SocketA"
+    },
+    "socket478": {
+      "cpu_x": 35,
+      "cpu_y": 35,
+      "cpu_z": 3.5,
+      "pin_z": 2.2,
+      "pin_border": 1.26,
+      "txt": "478"
+    },
+    "socketAM": {
+      "cpu_x": 40,
+      "cpu_y": 40,
+      "cpu_z": 4.5,
+      "pin_z": 2.1,
+      "pin_border": 0.5,
+      "txt": "AM"
+    },
+    "socketCore": {
+      "cpu_x": 37.5,
+      "cpu_y": 37.5,
+      "cpu_z": 4.8,
+      "pin_z": 1.8,
+      "pin_border": 1.26,
+      "txt": "Core"
+    },
+    "socket1366": {
+      "cpu_x": 42.5,
+      "cpu_y": 45.0,
+      "cpu_z": 4.6,
+      "pin_z": 1.4,
+      "pin_border": 1.26,
+      "txt": "1366"
+    },
+    "socket2011": {
+      "cpu_x": 45.0,
+      "cpu_y": 52.5,
+      "cpu_z": 4.7,
+      "pin_z": 1.4,
+      "pin_border": 1.05,
+      "txt": "2011"
+    },
+    "socketG34": {
+      "cpu_x": 60.0,
+      "cpu_y": 42.5,
+      "cpu_z": 5.4,
+      "pin_z": 1,
+      "pin_border": 1.26,
+      "txt": "G34"
+    }
+  }
+}
+
