@@ -17,6 +17,10 @@ A stackable, easy to print, 3D-printed CPU tray for many types of CPUs.
 
 You can [download](https://github.com/scrapcomputing/cpu_tray_blaster/releases) the zipped STL files for all sockets and several grid sizes in the releases.
 
+# Video
+
+- https://www.youtube.com/watch?v=UIG3XeRwU4c
+
 # Features
 
 - Stackable (only for same socket and grid size)
@@ -74,7 +78,7 @@ openscad=/path/to/openscad make                   # for a 2x2 stl files for all 
 openscad=/path/to/openscad make -j 4              # same but with 4 jobs in parallel (faster)
 openscad=/path/to/openscad make socket3_2x2.stl   # for a 2x2 socket3 stl file
 openscad=/path/to/openscad make socket7_3x3.stl   # for a 3x3 socket7 stl file
-openscad=/path/to/openscad grid_x=3 grid_y=3 make # for all 3x3 sockets
+openscad=/path/to/openscad grid=3x3 make          # for all 3x3 sockets
 ```
 
 For a full set of supported sockets please refer to `params.json`.
