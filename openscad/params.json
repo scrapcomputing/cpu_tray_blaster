@@ -12,6 +12,15 @@
 
 {
   "parameterSets": {
+    // When you add a new CPU don't forget to add it to the Makefile!
+    "socket386": {
+      "cpu_x": 36.9,
+      "cpu_y": 36.9,
+      "cpu_z": 3.0,
+      "pin_z": 4.2,
+      "pin_border": 1.26,
+      "txt": "386"
+    },
     "socket3": {
       "cpu_x": 44.5,
       "cpu_y": 44.5,

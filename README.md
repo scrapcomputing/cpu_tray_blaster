@@ -51,6 +51,7 @@ For example, Socket A CPUs fit in Socket 7 trays because the external dimensions
 
 | Name       |  Description                                 |
 |------------|----------------------------------------------|
+| socket386  | Ceramic 386                                  |
 | socket3    | All 486 CPUs, am5x86, Cyrix 5x86             |
 | socket4    | Only the early Pentium 60/66                 |
 | socket7    | Pentium, K5, K6, Cyrix 6x86, K7, Pentium iii |

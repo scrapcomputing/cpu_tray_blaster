@@ -44,6 +44,7 @@ endif
 .phony: all clean
 
 all: \
+  socket386_2x2.stl \
 	socket3_2x2.stl \
 	socket4_2x2.stl \
 	socket7_2x2.stl \
