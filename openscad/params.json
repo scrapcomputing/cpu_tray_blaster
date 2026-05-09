@@ -21,6 +21,14 @@
       "pin_border": 1.26,
       "txt": "386"
     },
+    "socket387": {
+      "cpu_x": 29.2,
+      "cpu_y": 29.2,
+      "cpu_z": 3.2,
+      "pin_z": 4.2,
+      "pin_border": 1.26,
+      "txt": "387"
+    },
     "socket3": {
       "cpu_x": 44.5,
       "cpu_y": 44.5,
